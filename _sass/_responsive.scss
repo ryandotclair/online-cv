@@ -34,7 +34,7 @@
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
   .skillset .level-title {
-    float: left;
+    float: none;
     width: 30%;
     margin-bottom: 0;
   }
@@ -47,13 +47,13 @@
   // }
 }
 
-.skillset .level-bar-inner {
-  width: auto;
-  -webkit-transition: width 2s ease-in-out;
-  -moz-transition: width 2s ease-in-out;
-  -o-transition: width 2s ease-in-out;
-  transition: width 2s ease-in-out;
-}
+// .skillset .level-bar-inner {
+//   width: auto;
+//   -webkit-transition: width 2s ease-in-out;
+//   -moz-transition: width 2s ease-in-out;
+//   -o-transition: width 2s ease-in-out;
+//   transition: width 2s ease-in-out;
+// }
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
