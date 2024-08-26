@@ -10,16 +10,16 @@
 
   <div class="skillset">
     {% for skill in skills.toolset %}
-    <div class="details">
+    <!-- <div class="details"> -->
       <ul>
-        <li><h2 class="level-title">{{ skill.name }}</h2></li>
+        <li><h2 class="details">{{ skill.name }}</h2></li>
       </ul>
       <!-- {% assign skill_level = 'width: ' | append: skill.level %}
       <div class="level-bar">
         <div class="level-bar-inner" style="{{skill_level}}"></div>
       </div> -->
       <!--//level-bar-->
-    </div>
+    <!-- </div> -->
     <!--//item-->
     {% endfor %}
   </div>
