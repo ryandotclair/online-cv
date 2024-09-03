@@ -34,12 +34,15 @@ sidebar:
     # pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
 
-career-profile:
-    title: Career Profile
-    summary: |
-      With 19 years of experience in the Enterprise space, I’m a technologist who has worked across various industry verticals. My expertise lies in building strong customer relationships, swiftly mastering new technologies, and delivering value-driven solutions. I’m particularly passionate about AI, invisible design, security, and automation. I also enjoy digging into the next new buzzword and finding practical applications.
+# With 19 years of experience in the Enterprise space, I’m a technologist who has worked across various industry verticals. My expertise lies in building strong customer relationships, swiftly mastering new technologies, and delivering value-driven solutions. I’m particularly passionate about AI, invisible design, security, and automation. I also enjoy digging into the next new buzzword and finding practical applications.
       
-      In my most recent role, I led cross-functional teams across Sales, Partner Alliances, Product Management, Pricing and Packaging, and Product Marketing. My approach combines strategic insight, operational mindfulness, and getting stuff done (because done is better than perfect).
+# In my most recent role, I led cross-functional teams across Sales, Partner Alliances, Product Management, Pricing and Packaging, and Product Marketing. My approach combines strategic insight, operational mindfulness, and getting stuff done (because done is better than perfect).
+
+career-profile:
+    title: Professional Summary
+    summary: |
+      A seasoned technologist with 19 years of experience in the Enterprise space. Proven ability in building customer trust, value-selling, driving product adoption, and leading cross-functional teams with an outside-in perspective. Passionate about AI, invisible design, security, and automation. Prefers execution over meetings and a lifelong learner.
+
 education:
     title: Education
     info:
@@ -87,16 +90,12 @@ skills:
 
     toolset:
       - name: GTM and Sales Strategy
-        # level: 98%
 
       - name: Cross-functional leader and getting it done
-        # level: 98%
 
       - name: Storytelling and Value Selling
-        # level: 98%
 
       - name: Optimizing the R&D, Sales, Marketing and Customer loop
-        # level: 95%
       
       - name: Kubernetes, Azure OpenAI, and Python
 
